@@ -1,6 +1,6 @@
 # Google sign in warnings
 
-This is a repo for reproducing weird Xcode warnings after including `GoogleSignIn` as a dependency
+This is a repo for [reproducing weird Xcode warnings after including `GoogleSignIn` as a dependency](https://github.com/firebase/firebase-ios-sdk/issues/8446)
 in an iOS project
 
 ### Setup
